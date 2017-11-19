@@ -8,7 +8,7 @@
 #### See the letters that i have entered on the screen
 #### As the user I would like to be able to input characters.
 #### I would like to know that I cannot enter any more than 3 characters.
-#### i would like to be able to see the final word that has been generated
+#### I would like to be able to see the final word that has been generated
 #### I would like to only input letters.
 
 ### Flow Chart:
