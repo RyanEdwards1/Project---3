@@ -71,7 +71,7 @@ void Solution(string anagram, string word) {
 string Anagram(unsigned maxLength) {
   string c;
   do {
-  cout << "Anagram: ";
+  cout << "Enter 3 Letters: ";
   cin >> c;
   cout << endl;
   if(c.length() > maxLength){
