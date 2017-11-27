@@ -1,5 +1,6 @@
 # Project-3
-
+### Anagram Solver 
+### Required language: C or C++
 ### Description:
   #### Design a system that allows the player to enter three random letters and then arange them into the best most valid word that can be made up of the three letters with no spaces aloud 
 
